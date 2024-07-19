@@ -15,3 +15,7 @@ The dashboard provides an extensive overview of Netflix's content library up to 
 10. User Engagement Potential: The variety in ratings and genres suggests a strategic approach to cater to different demographic groups, ensuring high user engagement and satisfaction.
  # Result
  The Netflix content dashboard reveals a total of 8802 titles, including 4526 directors and 515 genres from 749 countries. TV shows dominate the platform, comprising 69.62% of the content, while movies make up 30.38%. The most prevalent genres are International Dramas, Documentaries, and Stand-Up Comedy. Content ratings are largely skewed towards mature audiences, with TV-MA and TV-14 being the most common. The United States leads in content contribution, followed by India and the United Kingdom. There has been a notable surge in content availability since 2015, peaking in 2018 and 2020, reflecting Netflix's aggressive expansion and content acquisition strategy.
+
+
+# Dashborad
+https://app.powerbi.com/view?r=eyJrIjoiZTkxNzhmOWQtNmViYi00Nzc2LWI3OTktZDZmNmE2ZjhkYmMwIiwidCI6ImIzODE4MTViLWY3NzMtNGIxOC05ZDFjLWYxZGJiMjA0MjYzMSJ9
