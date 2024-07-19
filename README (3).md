@@ -2,7 +2,7 @@
 # Netflix Movies and TV Shows
 The dashboard provides an extensive overview of Netflix's content library up to 2021, showcasing a total of 8802 titles directed by 4526 directors across 515 genres from 749 countries, with data starting from 2008. It reveals a significant predominance of TV shows (69.62%) over movies (30.38%). Among the top genres, International Dramas, Documentaries, and Stand-Up Comedy lead the list. In terms of ratings, TV-MA and TV-14 are the most common, indicating a focus on mature audiences. The United States is the primary contributor to Netflix's library, followed by India and the United Kingdom. The timeline of content release shows a notable increase starting around 2015, peaking in 2018 and 2020, reflecting Netflix's rapid expansion and aggressive content acquisition strategy during these years.
 
-# Top Findings and Interpretation
+# Insights and Findings
 1. Dominance of TV Shows: The majority of Netflix's content consists of TV shows, which account for 69.62% of the total library, while movies represent 30.38%.
 2. Popular Genres: The platform's most prevalent genres are International Dramas, Documentaries, and Stand-Up Comedy, indicating a diverse range of audience interests.
 3. Mature Content Focus: A significant portion of the content is rated TV-MA and TV-14, highlighting a substantial emphasis on mature audiences.
